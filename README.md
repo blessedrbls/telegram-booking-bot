@@ -4,6 +4,9 @@ A Telegram bot that lets clients book an appointment with a master in a few taps
 
 Built with **Python 3**, **aiogram 3**, **SQLite** and **APScheduler**. English 🇬🇧 and Ukrainian 🇺🇦 included.
 
+> 🤖 **Try the live demo:** [@barbershop_barbershop_bot_bot](https://t.me/barbershop_barbershop_bot_bot)  
+> 🌐 **Website with Telegram booking:** [blessedrbls.github.io/barbershop-site](https://blessedrbls.github.io/barbershop-site/)
+
 ---
 
 ## ✨ Features
