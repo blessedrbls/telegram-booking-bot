@@ -42,15 +42,43 @@ Built with **Python 3**, **aiogram 3**, **SQLite** and **APScheduler**. English 
 
 ## 📸 Screenshots
 
-> Placeholders. Replace them with real screenshots (for example, put them in `screenshots/`).
+### 🙋 Client side
 
-| Main menu | Choosing a master | Choosing time |
-|:---:|:---:|:---:|
-| ![Main menu](https://placehold.co/300x600/1f2937/ffffff/png?text=Main+menu) | ![Masters](https://placehold.co/300x600/1f2937/ffffff/png?text=Choosing+a+master) | ![Time](https://placehold.co/300x600/1f2937/ffffff/png?text=Free+time+slots) |
+<table>
+  <tr>
+    <th>Main menu</th>
+    <th>Choosing a master</th>
+    <th>Free time slots</th>
+  </tr>
+  <tr>
+    <td valign="top"><img src="screenshots/main-menu.png" width="280" alt="Main menu"></td>
+    <td valign="top"><img src="screenshots/master.png" width="280" alt="Choosing a master"></td>
+    <td valign="top"><img src="screenshots/time.png" width="280" alt="Free time slots"></td>
+  </tr>
+  <tr>
+    <th>Booking confirmation</th>
+    <th>Reminder</th>
+    <th>Rating after the visit</th>
+  </tr>
+  <tr>
+    <td valign="top"><img src="screenshots/confirm.png" width="280" alt="Booking confirmation"></td>
+    <td valign="top"><img src="screenshots/reminder.png" width="280" alt="Reminder"></td>
+    <td valign="top"><img src="screenshots/rating.png" width="280" alt="Rating"></td>
+  </tr>
+</table>
 
-| Reminder | Rating | Admin panel |
-|:---:|:---:|:---:|
-| ![Reminder](https://placehold.co/300x600/1f2937/ffffff/png?text=Reminder) | ![Rating](https://placehold.co/300x600/1f2937/ffffff/png?text=Rating+1-5) | ![Admin](https://placehold.co/300x600/1f2937/ffffff/png?text=Admin+panel) |
+### 🔐 Admin side
+
+<table>
+  <tr>
+    <th>Active booking</th>
+    <th>Completed booking with rating</th>
+  </tr>
+  <tr>
+    <td valign="top"><img src="screenshots/admin.png" width="420" alt="Admin: active booking"></td>
+    <td valign="top"><img src="screenshots/admin-done.png" width="420" alt="Admin: completed booking"></td>
+  </tr>
+</table>
 
 ---
 
